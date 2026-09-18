@@ -1,0 +1,24 @@
+<svg
+    width="240"
+    height="240"
+    viewBox="0 0 240 240"
+    xmlns="http://www.w3.org/2000/svg">
+
+    <rect
+        x="20"
+        y="60"
+        width="200"
+        height="120"
+        rx="25"
+        fill="black"
+    />
+
+    <rect
+        x="20"
+        y="130"
+        width="200"
+        height="25"
+        fill="white"
+    />
+
+</svg>
