@@ -78,6 +78,7 @@ button:hover {
     background-color: #666666;
 }
 
+
 @keyframes clockPulse {
     0% {
         transform: scale(1);
@@ -92,6 +93,6 @@ button:hover {
     }
 }
 
-.clock img {
-    animation: clockPulse 2s ease infinite;
+.clock-svg {
+    animation: clockPulse 2s ease-in-out infinite;
 }
