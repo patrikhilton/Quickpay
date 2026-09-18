@@ -10,6 +10,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url("Quickpay/Images/citysunsetbackground.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+
 }
 
 .quickpay {
